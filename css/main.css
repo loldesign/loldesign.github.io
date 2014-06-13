@@ -131,6 +131,10 @@ a:visited { color: #205caa; }
   top: 3px;
 }
 
+.site-footer .lol-logo img{
+  width: 70px;
+}
+
 
 /* Page Content styles */
 /* ----------------------------------------------------------*/

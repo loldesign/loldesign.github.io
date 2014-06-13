@@ -8,3 +8,7 @@ url: "http://blog.loldesign.com.br"
 # Build settings
 markdown: kramdown
 permalink: none
+timezone: America/Sao_Paulo
+
+github_username:  'loldesign'
+twitter_username: 'loldesign_br'
