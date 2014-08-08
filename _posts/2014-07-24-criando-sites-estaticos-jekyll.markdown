@@ -15,5 +15,3 @@ Para maiores informações você encontra na [Documentação][jekyll] e no [Repo
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
-
-{% include comments.html %}
