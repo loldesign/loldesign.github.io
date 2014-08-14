@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Case: Sistema Bicicletário Largo da Batata"
-date:   2014-08-24 12:03:00
+date:   2014-08-08 12:03:00
 categories: cases
 ---
 
