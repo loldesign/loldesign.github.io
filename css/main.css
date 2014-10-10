@@ -422,3 +422,9 @@ li{
     margin: 0 0 15px; }
 
 }
+
+/*List*/
+
+.list-with-circle li{
+  list-style: initial;
+}
