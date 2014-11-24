@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Web Design - Tendências 2015"
-date:   2014-11-25 15:00:00
+date:   2014-11-24 15:00:00
 categories: design
 ---
 
