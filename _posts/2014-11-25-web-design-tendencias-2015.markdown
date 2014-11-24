@@ -35,3 +35,5 @@ _Site de exemplo:_ __[WeTransfer](http://www.wetransfer.com)__
 Outra grande tendência serão os vídeos incorporados nos backgrounds das páginas em HTML 5. Algumas marcas já incluíram esse elemento em seu projeto web.
 
 Esses tipos diferenciados de design, estão fazendo com que o usuário se engaje mais com as marcas e empresas que as utilizam, pois as páginas acabam ficando mais intuitivas sem que a pessoa fique lendo um texto cansativo.
+
+####by [Fernando Fujie](http://twitter.com/fefujie)####
