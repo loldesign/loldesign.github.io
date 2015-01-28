@@ -5,7 +5,7 @@ date:   2014-09-05 17:30:00
 categories: programacao
 ---
 
-![Bicicletário Largo da Batata](/assets/images/golang.jpg "Bicicletário")
+![Golang](/assets/images/golang.jpg "Golang")
 
 Go é uma linguagem estáticamente tipada criada pelo Google em 2007.
 Basicamente focada em rápida compilação/execução, trabalha com concorrência e paralelismo como a base da arquitetura.
